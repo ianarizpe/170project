@@ -1,0 +1,4 @@
+﻿  framework.cpp
+C:\Users\Ian\Desktop\School Files\Fall 2022\CSE 170\Labs\course_files_export\Programming Assignments\Raytrace3Sphere\Skeleton\framework.h(22,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  raytrace.cpp
+C:\Users\Ian\Desktop\School Files\Fall 2022\CSE 170\Labs\course_files_export\Programming Assignments\Raytrace3Sphere\Skeleton\framework.h(22,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
